@@ -1,0 +1,202 @@
+[
+  {
+    "question_type": "Galaxy",
+    "questions": [
+      {
+        "question_level": "easy",
+        "value": [
+          {
+            "question": "What is the process by which a star exhausts its nuclear fuel and collapses under gravity?",
+            "options": [
+              "Supernova",
+              "Black hole",
+              "Red giant",
+              "White dwarf"
+            ],
+            "answer": "Black hole"
+          },
+          {
+            "question": "Which of the following is not a type of galaxy?",
+            "options": [
+              "Spiral",
+              "Elliptical",
+              "Irregular",
+              "Nebula"
+            ],
+            "answer": "Nebula"
+          },
+          {
+            "question": "What is the name of the phenomenon where light is bent as it passes through a gravitational field?",
+            "options": [
+              "Stellar parallax",
+              "Redshift",
+              "Gravitational lensing",
+              "Cosmic microwave background"
+            ],
+            "answer": "Gravitational lensing"
+          }
+        ]
+      },
+      {
+        "question_level": "medium",
+        "value": [
+          {
+            "question": "What is the term for a large cloud of gas and dust in space where stars are born?",
+            "options": [
+              "Supernova",
+              "Nebula",
+              "Quasar",
+              "Pulsar"
+            ],
+            "answer": "Nebula"
+          },
+          {
+            "question": "Which planet in our solar system has the most prominent ring system?",
+            "options": [
+              "Saturn",
+              "Jupiter",
+              "Uranus",
+              "Neptune"
+            ],
+            "answer": "Saturn"
+          },
+          {
+            "question": "What is the name of the galaxy that contains our solar system?",
+            "options": [
+              "Andromeda",
+              "Milky Way",
+              "Orion",
+              "Triangulum"
+            ],
+            "answer": "Milky Way"
+          }
+        ]
+      },
+      {
+        "question_level": "hard",
+        "value": [
+          {
+            "question": "What is the unit of measurement used to describe the distance between stars and galaxies?",
+            "options": [
+              "Light-year",
+              "Parsec",
+              "Astronomical unit",
+              "Megaparsec"
+            ],
+            "answer": "Parsec"
+          },
+          {
+            "question": "What is the term for the explosive death of a massive star, resulting in a burst of energy and the formation of heavy elements?",
+            "options": [
+              "White dwarf",
+              "Supernova",
+              "Neutron star",
+              "Red giant"
+            ],
+            "answer": "Supernova"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "question_type": "Solar System",
+    "questions": [
+      {
+        "question_level": "easy",
+        "value": [
+          {
+            "question": "What is the process by which a star exhausts its nuclear fuel and collapses under gravity?",
+            "options": [
+              "Supernova",
+              "Black hole",
+              "Red giant",
+              "White dwarf"
+            ],
+            "answer": "Black hole"
+          },
+          {
+            "question": "Which of the following is not a type of galaxy?",
+            "options": [
+              "Spiral",
+              "Elliptical",
+              "Irregular",
+              "Nebula"
+            ],
+            "answer": "Nebula"
+          },
+          {
+            "question": "What is the name of the phenomenon where light is bent as it passes through a gravitational field?",
+            "options": [
+              "Stellar parallax",
+              "Redshift",
+              "Gravitational lensing",
+              "Cosmic microwave background"
+            ],
+            "answer": "Gravitational lensing"
+          }
+        ]
+      },
+      {
+        "question_level": "medium",
+        "value": [
+          {
+            "question": "What is the term for a large cloud of gas and dust in space where stars are born?",
+            "options": [
+              "Supernova",
+              "Nebula",
+              "Quasar",
+              "Pulsar"
+            ],
+            "answer": "Nebula"
+          },
+          {
+            "question": "Which planet in our solar system has the most prominent ring system?",
+            "options": [
+              "Saturn",
+              "Jupiter",
+              "Uranus",
+              "Neptune"
+            ],
+            "answer": "Saturn"
+          },
+          {
+            "question": "What is the name of the galaxy that contains our solar system?",
+            "options": [
+              "Andromeda",
+              "Milky Way",
+              "Orion",
+              "Triangulum"
+            ],
+            "answer": "Milky Way"
+          }
+        ]
+      },
+      {
+        "question_level": "hard",
+        "value": [
+          {
+            "question": "What is the unit of measurement used to describe the distance between stars and galaxies?",
+            "options": [
+              "Light-year",
+              "Parsec",
+              "Astronomical unit",
+              "Megaparsec"
+            ],
+            "answer": "Parsec"
+          },
+          {
+            "question": "What is the term for the explosive death of a massive star, resulting in a burst of energy and the formation of heavy elements?",
+            "options": [
+              "White dwarf",
+              "Supernova",
+              "Neutron star",
+              "Red giant"
+            ],
+            "answer": "Supernova"
+          }
+        ]
+      }
+    ]
+  }
+]

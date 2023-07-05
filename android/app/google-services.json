@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "917712761538",
+    "project_id": "astro-quiz-a184a",
+    "storage_bucket": "astro-quiz-a184a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917712761538:android:4be94fa6d12a7b882f015b",
+        "android_client_info": {
+          "package_name": "com.app.astroquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917712761538-4vpohs6mrf584fg7vjrqasu7tulk5amu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.astroquiz",
+            "certificate_hash": "b7d70a8a94a948eefa568be2bda7537948ede3ec"
+          }
+        },
+        {
+          "client_id": "917712761538-vu27tcfc4sbtek6leaasp50jbf8a7k8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3W59-kCR-Xgn7AyOInoaa_D63LvHapzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917712761538-vu27tcfc4sbtek6leaasp50jbf8a7k8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
