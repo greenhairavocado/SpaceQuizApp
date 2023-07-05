@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>917712761538-466hcdfahpja3lvqrn9936qbnvbpb084.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.917712761538-466hcdfahpja3lvqrn9936qbnvbpb084</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>917712761538-4vpohs6mrf584fg7vjrqasu7tulk5amu.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAi2N2e7B-_p71ddKUdzDLHm_655bQv1kA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>917712761538</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.astroquiz</string>
+	<key>PROJECT_ID</key>
+	<string>astro-quiz-a184a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>astro-quiz-a184a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:917712761538:ios:1c9e3f6a8abec1832f015b</string>
+</dict>
+</plist>
